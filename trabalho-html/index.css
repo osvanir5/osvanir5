@@ -1,0 +1,16 @@
+header{
+    background-color: black;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+article{
+    border: 3px solid #ccc; 
+}
+footer{
+    background-color: black;
+    color: #fff;
+    padding: 5px;
+    text-align: center;
+}
